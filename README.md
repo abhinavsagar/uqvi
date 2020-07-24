@@ -18,6 +18,10 @@ The dataset can be downloaded from [here](http://braintumorsegmentation.org/).
 
 ![results](images/img2.png)
 
+## Usage
+
+`python train.py`
+
 ## Results
 
 
