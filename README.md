@@ -20,17 +20,17 @@ The dataset can be downloaded from [here](http://braintumorsegmentation.org/).
 
 ## Results
 
-Mean Dice Similarity metrics for the experiments
+### Mean Dice Similarity metrics for the experiments
 
 ![results](images/img4.png)
 
 
-Intersection over Union metrics for the experiments
+### Intersection over Union metrics for the experiments
 
 ![results](images/img5.png)
 
 
-Uncertainty in Segmentation
+### Uncertainty in Segmentation
 
 ![results](images/img6.png)
 
