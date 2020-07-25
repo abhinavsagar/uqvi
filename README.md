@@ -4,6 +4,20 @@ Code for the paper `Uncertainty Quantification using Variational Inference for B
 
 Link to [Paper](https://abhinavsagar.github.io/files/uq_bnn_s.pdf).
 
+## Abstract
+
+Deep learning motivated by convolutional neural networks has been highly successful in a range of medical imaging problems like image classification, image
+segmentation, image synthesis etc. However for validation and interpretability, not
+only do we need the predictions made by the model but also how confident it is
+while making those predictions. This is important in safety critical applications for
+the people to accept it. In this work, we used an encoder decoder architecture based
+on variational inference techniques for segmenting brain tumour images. We compared different backbones architectures like U-Net, V-Net and FCN as sampling
+data from the conditional distribution for the encoder. We evaluate our work on
+the publicly available BRATS dataset using Dice Similarity Coefficient (DSC) and
+Intersection Over Union (IOU) as the evaluation metrics. Our model outperforms
+previous state of the art results while making use of uncertainty quantification in a
+bayesian manner.
+
 ## Data
 
 The dataset can be downloaded from [here](http://braintumorsegmentation.org/).
