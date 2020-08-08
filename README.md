@@ -4,6 +4,9 @@ Code for the paper `Uncertainty Quantification using Variational Inference for B
 
 Link to [Paper](https://abhinavsagar.github.io/files/uq_bnn_s.pdf).
 
+Link to [Blog](https://towardsdatascience.com/biomedical-image-segmentation-via-uncertainty-quantification-84b1eba8650).
+
+
 ## Abstract
 
 Deep learning motivated by convolutional neural networks has been highly successful in a range of medical imaging problems like image classification, image
