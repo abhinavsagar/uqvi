@@ -53,7 +53,7 @@ The dataset can be downloaded from [here](http://braintumorsegmentation.org/).
 
 ### Uncertainty in Segmentation
 
-![results](images/img6.png)
+![results](images/f3.png)
 
 ## Citing
 
