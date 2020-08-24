@@ -60,9 +60,11 @@ The dataset can be downloaded from [here](http://braintumorsegmentation.org/).
 If you find this code useful in your research, please consider citing the paper:
 
 ```
-@article{sagaruncertainty,
+@article{sagar2020uncertainty,
   title={Uncertainty Quantification using Variational Inference for Biomedical Image Segmentation},
-  author={Sagar, Abhinav}
+  author={Sagar, Abhinav},
+  journal={arXiv preprint arXiv:2008.07588},
+  year={2020}
 }
 ```
 
