@@ -2,9 +2,7 @@
 
 Code for the paper `Uncertainty Quantification using Variational Inference for Biomedical Image Segmentation`.
 
-Link to [Paper](https://abhinavsagar.github.io/files/uq_bnn_s.pdf).
-
-Link to [Blog](https://towardsdatascience.com/biomedical-image-segmentation-via-uncertainty-quantification-84b1eba8650).
+Link to [Paper](https://arxiv.org/pdf/2008.07588.pdf).
 
 
 ## Abstract
