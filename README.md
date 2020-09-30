@@ -2,7 +2,7 @@
 
 Code for the paper `Uncertainty Quantification using Variational Inference for Biomedical Image Segmentation`.
 
-Link to [Paper](https://arxiv.org/pdf/2008.07588.pdf).
+https://arxiv.org/pdf/2008.07588.pdf
 
 
 ## Abstract
