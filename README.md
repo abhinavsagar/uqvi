@@ -49,9 +49,11 @@ The dataset can be downloaded from [here](http://braintumorsegmentation.org/).
 ![results](images/img5.png)
 
 
-### Examples of models predictions on test samples, compared to ground truth segmentation. First column: input image, second column: ground truth segmentation, third column: predicted segmentation, fourth column: aleatoric uncertainty and fifth column: epistemic uncertainty.
+### Examples of models predictions on test samples, compared to ground truth segmentation:
 
 ![results](images/f3.png)
+
+First column: input image, second column: ground truth segmentation, third column: predicted segmentation, fourth column: aleatoric uncertainty and fifth column: epistemic uncertainty.
 
 ## Citing
 
