@@ -49,7 +49,7 @@ The dataset can be downloaded from [here](http://braintumorsegmentation.org/).
 ![results](images/img5.png)
 
 
-### Uncertainty in Segmentation
+### Examples of models predictions on test samples, compared to ground truth segmentation. First column: input image, second column: ground truth segmentation, third column: predicted segmentation, fourth column: aleatoric uncertainty and fifth column: epistemic uncertainty.
 
 ![results](images/f3.png)
 
@@ -68,9 +68,9 @@ BibTex:
 }
 ```
 
-APA:
+MLA:
 
-`Sagar, A. (2020). Uncertainty Quantification using Variational Inference for Biomedical Image Segmentation. arXiv preprint arXiv:2008.07588.`
+`Sagar, Abhinav. "Uncertainty Quantification using Variational Inference for Biomedical Image Segmentation." arXiv preprint arXiv:2008.07588 (2020).`
 
 ## License
 
