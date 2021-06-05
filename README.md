@@ -4,6 +4,25 @@ Code for the paper `Uncertainty Quantification using Variational Inference for B
 
 https://arxiv.org/pdf/2008.07588.pdf
 
+## Citing
+
+If you find this code useful in your research, please consider citing the paper:
+
+BibTex:
+
+```
+@article{sagar2020uncertainty,
+  title={Uncertainty Quantification using Variational Inference for Biomedical Image Segmentation},
+  author={Sagar, Abhinav},
+  journal={arXiv preprint arXiv:2008.07588},
+  year={2020}
+}
+```
+
+MLA:
+
+`Sagar, Abhinav. "Uncertainty Quantification using Variational Inference for Biomedical Image Segmentation." arXiv preprint arXiv:2008.07588 (2020).`
+
 
 ## Abstract
 
@@ -54,25 +73,6 @@ The dataset can be downloaded from [here](http://braintumorsegmentation.org/).
 ![results](images/f3.png)
 
 First column: input image, second column: ground truth segmentation, third column: predicted segmentation, fourth column: aleatoric uncertainty and fifth column: epistemic uncertainty.
-
-## Citing
-
-If you find this code useful in your research, please consider citing the paper:
-
-BibTex:
-
-```
-@article{sagar2020uncertainty,
-  title={Uncertainty Quantification using Variational Inference for Biomedical Image Segmentation},
-  author={Sagar, Abhinav},
-  journal={arXiv preprint arXiv:2008.07588},
-  year={2020}
-}
-```
-
-MLA:
-
-`Sagar, Abhinav. "Uncertainty Quantification using Variational Inference for Biomedical Image Segmentation." arXiv preprint arXiv:2008.07588 (2020).`
 
 ## License
 
